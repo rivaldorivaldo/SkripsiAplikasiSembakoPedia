@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    // Texts
+    <dimen name="username">15sp</dimen>
+    <dimen name="time">11sp</dimen>
+    <dimen name="message_hint">14sp</dimen>
+    <dimen name="title">12sp</dimen>
+
+    // Views
+
+    <dimen name="grid_expected_size">120dp</dimen>
+
+</resources>

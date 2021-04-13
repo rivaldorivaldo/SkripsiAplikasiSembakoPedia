@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "686227632341",
+    "firebase_url": "https://ta-sembakopedia.firebaseio.com",
+    "project_id": "ta-sembakopedia",
+    "storage_bucket": "ta-sembakopedia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686227632341:android:3fc0b4375f40f4e21af25c",
+        "android_client_info": {
+          "package_name": "com.rivaldomathindas.sembakopedia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "686227632341-invch8650089rc2ndk0k7c5ac56mb784.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyU9HlP194n_7c4b65RAbCpPtvQa9GGAc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "686227632341-invch8650089rc2ndk0k7c5ac56mb784.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

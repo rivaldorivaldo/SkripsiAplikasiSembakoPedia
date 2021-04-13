@@ -1,0 +1,189 @@
+<resources>
+    <string name="app_name">SembakoPedia</string>
+    <string name="creator">Oleh : Rivaldo Rendy Mathindas</string>
+
+    <string name="please_wait">Mohon menunggu…</string>
+    <string name="tap_back_again_to_exit">Ketuk sekali lagi untuk keluar</string>
+
+    <string name="image">Foto</string>
+    <string name="email_address">Alamat email</string>
+    <string name="location">Lokasi</string>
+    <string name="password">Kata sandi</string>
+    <string name="login">Masuk</string>
+    <string name="forgot_password">Lupa password?</string>
+    <string name="not_a_member_yet">Belum terdaftar?</string>
+    <string name="register">Mendaftar</string>
+    <string name="first_name">Nama depan</string>
+    <string name="last_name">Nama belakang</string>
+    <string name="sign_up">Daftar</string>
+    <string name="i_accept_the">Saya menerima</string>
+    <string name="terms_and_conditions">Syarat dan ketentuan</string>
+    <string name="already_have_an_account">Sudah memiliki akun?</string>
+    <string name="phone">Nomor Telepon</string>
+    <string name="confirm_password">Konfirmasi Password</string>
+
+    <string name="password_incorrect">Password salah</string>
+    <string name="account_not_found">Akun tidak ditemukan. Apakah anda sudah mendaftar?</string>
+    <string name="error_signing_in">Error saat masuk. Coba lagi.</string>
+    <string name="error_signing_up">Error saat daftar. Coba lagi.</string>
+    <string name="alert_forgot_password">Instruksi untuk mereset kata sandi akan dikirimkan ke</string>
+    <string name="send_email">Kirim Email</string>
+    <string name="email_sent">Email telah dikirim</string>
+    <string name="incorrect_email_format">Kesalahan format email</string>
+    <string name="email_not_sent">Email tidak terkirim. Coba lagi</string>
+    <string name="welcome_back">Selamat datang kembali</string>
+    <string name="welcome">Selamat datang</string>
+    <string name="fetching_user_data_failed">Menghubungkan data pengguna gagal : </string>
+    <string name="does_not_match_password">Kata sandi tidak cocok</string>
+    <string name="please_check_the_terms_and_conditions">Mohon periksa syarat dan ketentuan</string>
+    <string name="please_select_a_profile_picture">Mohon memilih foto profil</string>
+    <string name="please_enter_a_stronger_password">Mohon menggunakan kata sandi yang lebih kuat</string>
+    <string name="account_already_exists">Akun telah digunakan. Coba masuk</string>
+    <string name="cropping_error">Pemotongan gagal</string>
+    <string name="home">Beranda</string>
+    <string name="my_sales">Penjualanku</string>
+    <string name="my_purchases">Pembelianku</string>
+    <string name="incoming_orders">Pesanan masuk</string>
+    <string name="statistics">Statistik</string>
+    <string name="chats">Obrolan</string>
+    <string name="settings">Pengaturan</string>
+    <string name="about">Tentang</string>
+    <string name="logout">Keluar</string>
+    <string name="loading">Memuat</string>
+    <string name="are_you_sure_to_log_out">Kamu yakin untuk keluar ?</string>
+    <string name="cancel">Batal</string>
+    <string name="yes">Ya</string>
+
+    <string name="upload_products">Unggah produk</string>
+    <string name="please_connect_to_the_internet">Tidak ada jaringan internet!</string>
+    <string name="please_select_atleast_2_images">Pilih setidaknya 2 foto…</string>
+    <string name="please_fill_all_fields">Isi semua kolom yang kosong!</string>
+    <string name="uploading_images">Mengunggah foto…</string>
+    <string name="uploading_product_details">Mengunggah detail produk…</string>
+    <string name="product_successfully_uploaded">Produk telah diunggah</string>
+    <string name="error_uploading_product">Gagal mengunggah produk. Coba lagi</string>
+    <string name="make_order">Membuat pesanan</string>
+    <string name="delete">HAPUS</string>
+    <string name="deleted">terhapus</string>
+    <string name="making_order">Sedang memesan…</string>
+    <string name="error_making_order">Gagal memesan. Coba lagi</string>
+    <string name="product_information">Informasi produk</string>
+    <string name="product_name">Nama produk</string>
+    <string name="product_details">Detail produk</string>
+    <string name="type_of_product">Tipe produk</string>
+    <string name="product_category">Kategori produk</string>
+    <string name="post_product">Unggah produk</string>
+    <string name="available_quantity">Jumlah tersedia</string>
+    <string name="unit_price">Harga</string>
+    <string name="statistic">Statistik %1$s</string>
+    <string name="prediction">Prediksi %1$s</string>
+
+    <string name="setting">Pengaturan</string>
+    <string name="change_language">Ganti Bahasa</string>
+    <string name="alarm_daily_reminder_on">Pengingat Harian : Hidup</string>
+    <string name="alarm_daily_reminder_off">Pengingat Harian : Mati</string>
+    <string name="alarm_title">Pengingat Sembakopedia</string>
+    <string name="alarm_text">Ayo cek harga pasar hari ini</string>
+    <string name="channel_name">Pengingat</string>
+    <string name="daily_reminder">Pengingat harian</string>
+
+    <string name="asking_price">Harga yang ditawarkan</string>
+    <string name="quantity">Banyaknya</string>
+    <string name="quantity_available">Tersedia</string>
+    <string name="desc">Deskripsi</string>
+    <string name="choose_photos">Pilih foto</string>
+    <string name="upload_photos">Unggah foto</string>
+    <string name="add_atleast_2_photos">Tambahkan setidaknya 2 foto</string>
+    <string name="no_chats">Belum ada obrolan</string>
+    <string name="no_product_added_yet">Belum ada produk yang ditambahkan</string>
+    <string name="no_product_posted_yet">Belum ada produk yang diunggah</string>
+    <string name="how_many_products_do_you_need">Berapa banyak?</string>
+    <string name="delivery_location">Lokasi pengantaran</string>
+    <string name="no_messages_added_yet">Belum ada pesan</string>
+    <string name="error_gif">x or y bound size should be at least %1$dpx and file size should be no more than %2$sM</string>
+    <string name="write_desc">Tulis deskripsi mengenai produk ini…</string>
+    <string name="write_a_message">Tulis pesan…</string>
+    <string name="weekly">Minggu ini</string>
+    <string name="monthly">Bulan ini</string>
+    <string name="all">Semua</string>
+    <string name="place_order">BUAT PESANAN</string>
+    <string name="delete_product">HAPUS PRODUK</string>
+    <string name="contact_seller">Kontak Penjual</string>
+    <string name="no_product_ordered_yet">Belum ada produk yang dipesan</string>
+    <string name="version">Versi</string>
+    <string name="no_product_orders_placed_yet">Belum ada produk yang dipesan</string>
+    <string name="tommorrow_prediction">Prediksi Untuk Besok : Rp.</string>
+
+    <string-array name="makes">
+        <item name="beras">Beras</item>
+        <item name="gula">Gula</item>
+        <item name="minyak_goreng">Minyak Goreng</item>
+        <item name="daging">Daging</item>
+        <item name="minyak_lpg">Minyak Tanah dan Gas LPG</item>
+        <item name="susu">Susu</item>
+        <item name="hasil_tani">Hasil tani</item>
+        <item name="telur">Telur</item>
+        <item name="garam">Garam</item>
+        <item name="lainnya">Lainnya</item>
+    </string-array>
+
+    <string-array name="beras">
+        <item name="superwin">Beras superwin</item>
+        <item name="temo">Beras temo</item>
+        <item name="nurdin">Beras nurdin</item>
+        <item name="pulo">Beras pulo</item>
+        <item name="lainnya">Beras lainnya</item>
+    </string-array>
+
+    <string-array name="gula">
+        <item name="lokal">Gula lokal</item>
+        <item name="premium">Gula premium</item>
+    </string-array>
+
+    <string-array name="susu">
+        <item name="umum">Susu umum</item>
+        <item name="ibu_hamil">Susu ibu hamil</item>
+        <item name="bayi">Susu bayi</item>
+    </string-array>
+
+    <string-array name="minyak_goreng">
+        <item name="lokal">Minyak goreng lokal</item>
+        <item name="premium">Minyak goreng premium</item>
+    </string-array>
+
+    <string-array name="minyak_lpg">
+        <item name="minyak_tanah">Minyak tanah</item>
+        <item name="gas_lpg">Gas LPG</item>
+    </string-array>
+
+    <string-array name="daging">
+        <item name="ayam">Daging ayam</item>
+        <item name="sapi">Daging sapi</item>
+        <item name="kambing">Daging kambing</item>
+    </string-array>
+
+    <string-array name="hasil_tani">
+        <item name="jagung">Jagung</item>
+        <item name="wortel">Wortel</item>
+        <item name="terong">Terong</item>
+    </string-array>
+
+    <string-array name="telur">
+        <item name="ayam">Telur ayam</item>
+        <item name="bebek">Telur bebek</item>
+    </string-array>
+
+    <string-array name="garam">
+        <item name="lokal">Garam lokal</item>
+        <item name="premium">Garam premium</item>
+    </string-array>
+
+    <string-array name="lainnya">
+        <item name="lainnya">lainnya</item>
+    </string-array>
+
+    <string-array name="holder">
+        <item name="category">Mohon dipilih</item>
+    </string-array>
+
+</resources>

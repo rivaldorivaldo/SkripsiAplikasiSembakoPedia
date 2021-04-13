@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".activity.SettingActivity">
+
+    <androidx.appcompat.widget.Toolbar
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/toolbarSetting"
+        android:theme="@style/ThemeOverlay.AppCompat.Dark"
+        android:background="@color/colorPrimary" />
+
+    <TextView
+        android:id="@+id/tvChangeLanguage"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginTop="8dp"
+        android:background="@drawable/wire_drawable"
+        android:text="@string/change_language"
+        android:textSize="16sp"
+        android:fontFamily="@font/roboto"
+        android:gravity="center_vertical"
+        android:textColor="@color/black"
+        android:paddingStart="10dp"
+        android:drawableEnd="@drawable/ic_baseline_arrow_forward_ios_24"
+        tools:ignore="RtlSymmetry" />
+
+    <Switch
+        android:id="@+id/swDailyReminder"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_margin="8dp"
+        android:paddingStart="10dp"
+        android:background="@drawable/wire_drawable"
+        android:text="@string/daily_reminder"
+        android:textSize="16sp"
+        android:fontFamily="@font/roboto"
+        tools:ignore="RtlSymmetry" />
+
+</LinearLayout>

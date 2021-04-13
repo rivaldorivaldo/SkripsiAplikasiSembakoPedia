@@ -1,0 +1,137 @@
+[
+  {
+    "category": "Beras",
+    "image": 2131230898,
+    "type": [
+      {
+        "name": "Beras superwin"
+      },
+      {
+        "name": "Beras temo"
+      },
+      {
+        "name": "Beras nurdin"
+      },
+      {
+        "name": "Beras pulo"
+      },
+      {
+        "name": "Beras lainnya"
+      }
+    ]
+  },
+  {
+    "category": "Gula",
+    "image": 2131230901,
+    "type": [
+      {
+        "name": "Gula lokal"
+      },
+      {
+        "name": "Gula premium"
+      }
+    ]
+  },
+  {
+    "category": "Minyak Goreng",
+    "image": 2131230892,
+    "type": [
+      {
+        "name": "Minyak goreng lokal"
+      },
+      {
+        "name": "Minyak goreng premium"
+      }
+    ]
+  },
+  {
+    "category": "Daging",
+    "image": 2131230884,
+    "type": [
+      {
+        "name": "Daging ayam"
+      },
+      {
+        "name": "Daging sapi"
+      },
+      {
+        "name": "Daging kambing"
+      }
+    ]
+  },
+  {
+    "category": "Minyak dan Gas",
+    "image": 2131230883,
+    "type": [
+      {
+        "name": "Minyak Tanah"
+      },
+      {
+        "name": "Gas LPG"
+      }
+    ]
+  },
+  {
+    "category": "Susu",
+    "image": 2131230887,
+    "type": [
+      {
+        "name": "Susu umum"
+      },
+      {
+        "name": "Susu ibu hamil"
+      },
+      {
+        "name": "Susu Bayi"
+      }
+    ]
+  },
+  {
+    "category": "Hasil Tani",
+    "image": 2131230902,
+    "type": [
+      {
+        "name": "Jagung"
+      },
+      {
+        "name": "Wortel"
+      },
+      {
+        "name": "Terong"
+      }
+    ]
+  },
+  {
+    "category": "Telur",
+    "image": 2131230876,
+    "type": [
+      {
+        "name": "Telur ayam"
+      },
+      {
+        "name": "Telur bebek"
+      }
+    ]
+  },
+  {
+    "category": "Garam",
+    "image": 2131230899,
+    "type": [
+      {
+        "name": "Garam lokal"
+      },
+      {
+        "name": "Garam premium"
+      }
+    ]
+  },
+  {
+    "category": "Lainnya",
+    "image": 2131230893,
+    "type": [
+      {
+        "name": "Lainnya"
+      }
+    ]
+  }
+]

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F3705A</color>
+    <color name="colorPrimaryDark">#F05540</color>
+    <color name="colorAccent">#FFD15C</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+    <color name="primaryText">#212121</color>
+    <color name="secondaryText">#D9757575</color>
+
+    <color name="positiveButtonColor">#ffd15c</color>
+    <color name="negativeButtonColor">#f05540</color>
+
+    <color name="semiBlackTransparent">#44415A6B</color>
+    <color name="softBlue">#8AD7F8</color>
+    <color name="darkOrange">#F7B64C</color>
+
+    <color name="textGray">#616161</color>
+    <color name="light_background">#f2f2f2</color>
+    <color name="rvDivider">#CCe0e0e0</color>
+    <color name="lightGray">#e6e6e6</color>
+
+    <color name="mainColor1">#FFA5A3</color>
+    <color name="mainColor2">#ECFFA8</color>
+
+</resources>
